@@ -2,3 +2,13 @@ git status
 git add sublim-text.txt
 git commit -m "SUblim_text_command"
 git push origin master
+
+
+
+
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin master
